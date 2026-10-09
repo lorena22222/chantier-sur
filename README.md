@@ -1,4 +1,4 @@
-# Chantier Clair
+# Chantier Sûr
 
 Site vitrine statique, plomberie & électricité, Paris & proche banlieue.
 Paiement sécurisé, artisans vérifiés (SIRET, Kbis, assurance décennale).
@@ -6,7 +6,7 @@ Paiement sécurisé, artisans vérifiés (SIRET, Kbis, assurance décennale).
 ## Structure
 
 ```
-chantier-clair/
+chantier-sur/
 ├── index.html            # page principale (hero, visuel, histoire, comment ça marche,
 │                          # confiance, profils artisans, zone Paris, devenir artisan, FAQ, CTA)
 ├── trouver-artisan.html   # liste des artisans triés par distance + prochaine dispo (géoloc)
@@ -16,7 +16,7 @@ chantier-clair/
 ├── confidentialite.html
 ├── css/
 │   └── style.css    # feuille de style commune à toutes les pages
-├── favicon.svg       # icône d'onglet (logo Chantier Clair)
+├── favicon.svg       # icône d'onglet (logo Chantier Sûr)
 ├── og-image.png       # image de partage (réseaux sociaux)
 ├── package.json
 └── README.md

@@ -1,8 +1,8 @@
 {
-  "name": "chantier-clair",
+  "name": "chantier-sur",
   "version": "1.0.0",
   "private": true,
-  "description": "Site vitrine Chantier Clair — plomberie & électricité, Paris & proche banlieue",
+  "description": "Site vitrine Chantier Sûr — plomberie & électricité, Paris & proche banlieue",
   "scripts": {
     "dev": "npx serve . -l 3000"
   }
